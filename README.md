@@ -1,5 +1,5 @@
 - 👋 Hi, I’m INFINITY
-- 👀 I’m interested in Python, Javascript(mostly discord.js) and c#
+- 👀 I’m interested in Python, Javascript and C#
 - 🌱 Goal: Get my bot to be on 100 servers
 - 📫 How to reach me... Discord: IПFIПITY#0001
 
